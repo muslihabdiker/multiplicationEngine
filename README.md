@@ -1,3 +1,8 @@
+<p style="font-size: small;">                         --- disclaimer! ---
+The provided C++ code appears to be in the early development phase and may not be fully implemented. As a result, it might contain incomplete sections, errors, or portions that are commented out. The program's functionality could be unstable, and certain elements may not work as intended. Additionally, variables and logic may be subject to change, potentially leading to shifts in code structure or unexpected behaviors.
+
+Caution is advised when using this code for critical applications or expecting reliable results. It is recommended to thoroughly review and test the code before deploying it in any production environment.</p>
+
 # multiplicationEngine
 subsidery of project 109
 file code: 27882FDGWYUWJHSL
