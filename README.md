@@ -39,3 +39,6 @@ However, it is important to note that the code has several commented-out lines a
 The program appears to be a work in progress and may not work correctly as it is. Additionally, it lacks proper comments and explanations, making it challenging to understand the exact logic and purpose behind certain sections of the code.
 
 If you have specific questions or need more detailed explanations about any specific part of the code, feel free to ask!
+
+
+for more information contact the developer: muslihabdiker@gmail.com
