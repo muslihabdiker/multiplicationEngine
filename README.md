@@ -4,7 +4,7 @@ The provided C++ code appears to be in the early development phase and may not b
 Caution is advised when using this code for critical applications or expecting reliable results. It is recommended to thoroughly review and test the code before deploying it in any production environment.</p>
 
 # multiplicationEngine
-subsidery of project 109
+subsidery of project 109<br>
 file code: 27882FDGWYUWJHSL
 
 <------------------------------------------ description ------------------------------------------------------------------>
